@@ -1,0 +1,48 @@
+#im1{
+      width: 150px;
+      position: fixed;
+      margin-top: -85px;
+      z-index: 2;
+}
+#emn{
+      background-color:#0f9d0f;
+      width: 500px;
+      padding-left: 900px;
+      margin-top: -90px;
+      padding-bottom: 25px;
+      height: 42px;
+      position: fixed;
+     
+
+}
+.ta{
+	margin-top: 90px;
+	
+}
+#estel{
+	margin-top: -214px;
+	width: 1350px;
+	height: 600px;
+}
+#white{
+	color: white;
+}
+#blue{
+	color: blue;
+}
+#p{
+	margin-top: 90px;
+}
+#p1{
+	margin-top: 90px;
+}
+#p2{
+	margin-top: 90px;
+}
+.div21{
+      margin-top: -280px;
+      margin-left: 1000px;
+}
+h2{
+      text-decoration: underline;
+}

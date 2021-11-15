@@ -1,0 +1,29 @@
+<?php
+define('JOURS',[
+'Lundi',
+'Mardi',
+'Mercredi',
+'Jeudi',
+'Vendredi',
+'Samedi',
+'Dimanche']);
+define('CRENEAUX',[
+	[
+      [9,12],
+	  [15,18]
+	],
+	[],
+	[
+      [9,12],
+	  [15,18]
+	],
+	[],
+	[
+      [9,12],
+	  [15,18]
+	],
+	[],
+	[],
+	
+]);
+?>

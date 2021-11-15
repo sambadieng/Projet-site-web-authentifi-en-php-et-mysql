@@ -1,0 +1,39 @@
+.h{
+      margin-top: 100px;
+      width: 200px;
+      height: 5px;
+      margin-left: 550px;
+      background-color: brown;
+}
+.h0{
+	margin-left: 570px;
+}
+.divmax{
+	width: 1000px;
+	height: 1050px;
+	margin: 70px auto;
+	margin-left:300px;
+	border-left: 5px solid black;
+	padding-left: 5px;
+	margin-top: -150px;
+	
+	
+}
+.h6{
+	text-decoration: none;
+	margin-left:5px;
+	font-size: 17px;
+	margin-top: 50px;
+}
+.h7{
+	width: 1350px;
+	height: 150px;
+	background-color: black;
+	padding-top: 10px;
+	
+}
+.h8{
+	color: white;
+	margin-top: 20px;
+	margin-left: 450px;
+}
